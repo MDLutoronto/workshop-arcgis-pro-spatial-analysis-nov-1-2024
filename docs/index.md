@@ -26,7 +26,7 @@ By the end of this workshop, you will be able to:
 * **Interpret and communicate** the results of your analysis
 * Design your analysis with **data and techniques that suit your problem**
 
-UofT Libraries provides a free license for ArcGIS Pro. To obtain the software, fill out our [request form](https://mdl.library.utoronto.ca/arcmap/request).
+UofT Libraries provides a free license for ArcGIS Pro. To obtain the software, follow this [tutorial](https://mdlutoronto.github.io/arcgis-pro-install-license/).
 
 [**Recording \- 1:43:15**](https://play.library.utoronto.ca/watch/6bb10fceaa5394d03624e47a84132b7c) **&** [**Slides**](https://maps.library.utoronto.ca/workshops/ArcGISProAnalysis/ArcGIS%20Pro%20-%20Spatial%20Analysis%20Slides.pdf)
 
