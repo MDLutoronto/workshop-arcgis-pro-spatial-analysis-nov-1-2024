@@ -1,8 +1,11 @@
 ---
 title: "Workshop Recording: ArcGIS Pro -  Spatial Analysis (Nov. 1, 2024)"
 layout: "home"
-description: ""
+description: "This page provides a video recording of a workshop in ArcGIS Pro focusing on spatial analysis."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Cole White
+   link: https://library.utoronto.ca/staff/cole-white
 ---
 
 # Workshop Recording: ArcGIS Pro -  Spatial Analysis (Nov. 1, 2024)
@@ -23,8 +26,10 @@ By the end of this workshop, you will be able to:
 * **Interpret and communicate** the results of your analysis
 * Design your analysis with **data and techniques that suit your problem**
 
-UofT Libraries provides a free license for ArcGIS Pro. To obtain the software, fill out our [request form](https://mdl.library.utoronto.ca/arcmap/request).
+UofT Libraries provides a free license for ArcGIS Pro. To obtain the software, follow the instructions here: <a href="https://mdl.library.utoronto.ca/technology/tutorials/downloading-installing-and-licensing-arcgis-pro">https://mdl.library.utoronto.ca/technology/tutorials/downloading-installing-and-licensing-arcgis-pro</a>. Please note that ArcGIS Pro is Windows-only. If you don't have Windows, you can use the software on campus (see <a href="https://mdl.library.utoronto.ca/technology/computers-with-gis-software">https://mdl.library.utoronto.ca/technology/computers-with-gis-software</a>).
 
-[**Recording \- 1:43:15**](https://play.library.utoronto.ca/watch/6bb10fceaa5394d03624e47a84132b7c) **\&**[**Slides**](https://maps.library.utoronto.ca/workshops/ArcGISProAnalysis/ArcGIS%20Pro%20-%20Spatial%20Analysis%20Slides.pdf)
+[**Recording \- 1:43:15**](https://play.library.utoronto.ca/watch/6bb10fceaa5394d03624e47a84132b7c) **&** [**Slides**](https://maps.library.utoronto.ca/workshops/ArcGISProAnalysis/ArcGIS%20Pro%20-%20Spatial%20Analysis%20Slides.pdf)
 
-Technique: [Mapping](/technique/mapping), [Spatial Analysis](/technique/spatial-analysis) \| Tools: [ArcGIS Pro](/taxonomy/term/70)**Date Created:** 2025\-01\-24**Updated:** 2025\-02\-10
+Technique: [Mapping](/technique/mapping), [Spatial Analysis](/technique/spatial-analysis) \| Tools: [ArcGIS Pro](/taxonomy/term/70)
+
+**Date Created:** 2025\-01\-24 **Updated:** 2025\-02\-10
