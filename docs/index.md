@@ -30,6 +30,6 @@ UofT Libraries provides a free license for ArcGIS Pro. To obtain the software, f
 
 [**Recording \- 1:43:15**](https://play.library.utoronto.ca/watch/6bb10fceaa5394d03624e47a84132b7c) **&** [**Slides**](https://maps.library.utoronto.ca/workshops/ArcGISProAnalysis/ArcGIS%20Pro%20-%20Spatial%20Analysis%20Slides.pdf)
 
-Technique: [Mapping](/technique/mapping), [Spatial Analysis](/technique/spatial-analysis) \| Tools: [ArcGIS Pro](/taxonomy/term/70)
+**Technique:** [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
 
 **Date Created:** 2025\-01\-24 **Updated:** 2025\-02\-10
