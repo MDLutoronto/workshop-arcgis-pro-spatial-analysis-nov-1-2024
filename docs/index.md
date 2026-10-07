@@ -30,7 +30,7 @@ By the end of this workshop, you will be able to:
 * **Interpret and communicate** the results of your analysis
 * Design your analysis with **data and techniques that suit your problem**
 
-UofT Libraries provides a free license for ArcGIS Pro. To obtain the software, follow the instructions here: <a href="https://mdlutoronto.github.io/arcgis-pro-install-license/">https://mdlutoronto.github.io/arcgis-pro-install-license/</a>. Please note that ArcGIS Pro is Windows-only. If you don't have Windows, you can use the software on campus (see <a href="https://mdl.library.utoronto.ca/technology/computers-with-gis-software">https://mdl.library.utoronto.ca/technology/computers-with-gis-software</a>).
+UofT Libraries provides a free license for ArcGIS Pro. To obtain the software, follow the instructions here: <a href="https://mdlutoronto.github.io/arcgis-pro-install-license/">https://mdlutoronto.github.io/arcgis-pro-install-license/</a>. Please note that ArcGIS Pro is Windows-only. If you don't have Windows, you can use the software on campus (see <a href="https://faq.library.utoronto.ca/faq/where-can-i-find-computers-gis-software?_gl=1*2geh3u*_ga*MjE0MTczMTE2LjE3OTEzODI2MDE.*_ga_N97V7GPQQJ*czE3OTEzODI2MDEkbzEkZzEkdDE3OTEzOTcyMjkkajUzJGwwJGgw">https://faq.library.utoronto.ca/faq/where-can-i-find-computers-gis-software?_gl=1*2geh3u*_ga*MjE0MTczMTE2LjE3OTEzODI2MDE.*_ga_N97V7GPQQJ*czE3OTEzODI2MDEkbzEkZzEkdDE3OTEzOTcyMjkkajUzJGwwJGgw</a>).
 
 [**Recording - 1:43:15**](https://play.library.utoronto.ca/watch/6bb10fceaa5394d03624e47a84132b7c)
 
